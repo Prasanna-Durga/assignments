@@ -1,0 +1,55 @@
+.parent1{
+    height:200px;
+    width:200px;
+    background-color:blue;
+    padding: 50px;
+    border: 20px ridge brown;
+    margin:50px;
+    display: inline-block;
+}
+.A{
+    height:50px;
+    width:50px;
+    background-color:pink;
+}
+.B{
+    height:50px;
+    width:50px;
+    background-color:yellow;
+}
+.C{
+    height:50px;
+    width:50px;
+    background-color:chocolate;
+}
+.parent2{
+    height:200px;
+    width:200px;
+    background-color:violet;
+    padding: 50px;
+    border: 20px dashed black;
+    margin:50px;
+    display: inline-block;
+}
+.D{
+    height:50%;
+    width:50%;
+    background-color:greenyellow;
+}
+.E{
+    height:50%;
+    width:50%;
+    background-color:skyblue;
+}
+.parent3{
+    height:600px;
+    width:600px;
+    background-color: red;
+}
+.F{
+    padding: 50px;
+    border:20px solid black;
+    display: inline-block;
+}
+
+
